@@ -41,9 +41,9 @@ export const projects = {
       description: "Created a professional responsive portfolio site displaying live web applications, dynamic script metrics, and hands-on developer integrations.",
       stars: 0,
       forks: 0,
-      language: "JavaScript",
-      languageColor: "#f1e05a",
-      url: "https://github.com/rishabhsahill/Personal-Portfolio-Website"
+      language: "React",
+      languageColor: "#3572A5",
+      url: "https://github.com/rishabhsahill/portfolio-git-ui"
     }
   ],
   customProjects: [
@@ -69,7 +69,7 @@ export const projects = {
       name: "Personal Portfolio",
       description: "Sleek portfolio platform showcasing active integrations, live scripts, metrics logging, and contact pathways.",
       thumbnail: "https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg",
-      url: "http://rishabhsahil.tech"
+      url: "http://rishabhsahil.in"
     }
   ],
   publications: [], // Empty since no academic publications are listed
