@@ -3,7 +3,7 @@ export const socials = {
   twitter: "https://x.com/rishabhsahill",
   linkedin: "https://www.linkedin.com/in/rishabhsahilll",
   instagram: "https://instagram.com/rishabhsahill",
-  website: "http://rishabhsahil.tech",
+  website: "http://rishabhsahil.in",
   mastodon: "",
   medium: "",
   dev: ""
