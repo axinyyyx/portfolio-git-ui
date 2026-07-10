@@ -7,7 +7,7 @@ export const projects = {
       forks: 0,
       language: "React",
       languageColor: "#3572A5",
-      url: "https://github.com/rishabhsahill/English-Speaking-Friend-Frontend"
+      url: "https://github.com/axinyyyx/English-Speaking-Friend-Frontend"
     },
     {
       name: "English-Speaking-Friend-Backend",
@@ -16,7 +16,7 @@ export const projects = {
       forks: 0,
       language: "python",
       languageColor: "#3572A5",
-      url: "https://github.com/rishabhsahill/english-speaking-friend-backend"
+      url: "https://github.com/axinyyyx/english-speaking-friend-backend"
     },
     {
       name: "Acharya-Classes",
@@ -25,7 +25,7 @@ export const projects = {
       forks: 0,
       language: "Python",
       languageColor: "#3572A5",
-      url: "https://github.com/rishabhsahill/Acharya-Classes"
+      url: "https://github.com/axinyyyx/Acharya-Classes"
     },
     {
       name: "Netra",
@@ -34,7 +34,7 @@ export const projects = {
       forks: 0,
       language: "Python",
       languageColor: "#3572A5",
-      url: "https://github.com/rishabhsahill/Netra-Web-Application"
+      url: "https://github.com/axinyyyx/Netra-Web-Application"
     },
     {
       name: "Personal-Portfolio-Website",
@@ -43,7 +43,7 @@ export const projects = {
       forks: 0,
       language: "React",
       languageColor: "#3572A5",
-      url: "https://github.com/rishabhsahill/portfolio-git-ui"
+      url: "https://github.com/axinyyyx/portfolio-git-ui"
     }
   ],
   customProjects: [
