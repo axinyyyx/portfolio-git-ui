@@ -63,7 +63,7 @@ export const projects = {
       name: "English Speaking Friend",
       description: "English Speaking Friend | Zero Se Hero Level English Practice | AI-Powered English Speaking Practice Platform.",
       thumbnail: "https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg",
-      url: "hhttps://english-speaking-friend.vercel.app/"
+      url: "https://english-speaking-friend.vercel.app/"
     },
     {
       name: "Personal Portfolio",
