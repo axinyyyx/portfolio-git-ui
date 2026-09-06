@@ -1,7 +1,7 @@
 export const profile = {
   name: "Rishabh Kumar",
   title: "Full Stack Python Developer / AI Web Developer",
-  avatar: "/rishabhsahil2.png",
+  avatar: "/rishabhsahil.jpeg",
   resumeUrl: "", // Leaving empty to hide button as requested if no link
   basedIn: "Bihar, India",
   location: "New Sheetal Tola Ara, Bhojpur, Bihar - 802301",
